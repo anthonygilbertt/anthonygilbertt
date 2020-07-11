@@ -3,6 +3,8 @@
 ### I am currently aspiring to become a Full Stack developer.
 ### Follow me on twitter @agilby007 😄
 
+![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
+
 
 <!--
 **anthonygilbertt/anthonygilbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
