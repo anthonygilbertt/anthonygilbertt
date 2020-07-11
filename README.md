@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Anthony. I manage several corporate websites using a CMS.  I am currently aspiring to become a Full Stack developer. Follow me on twitter @agilby007 😄
+### Hi 👋. I'm Anthony. I manage several corporate websites using afew CMS' called Kentico, Sitefinity, and Umbraco.  I am currently aspiring to become a Full Stack developer. Follow me on twitter @agilby007 😄
 
 
 <!--
