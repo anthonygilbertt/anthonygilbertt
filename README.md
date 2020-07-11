@@ -1,7 +1,5 @@
 ### Hi 👋. I'm Anthony. I manage corporate websites using Kentico, Sitefinity, and Umbraco.
-
 ### I am currently aspiring to become a Full Stack developer.
-
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
 ### Follow me on twitter @agilby007 😄
 
