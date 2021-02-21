@@ -1,5 +1,5 @@
 ### Hi 👋. I'm Anthony.
-### I am currently aspiring to become a JavaScript developer.
+### I am currently aspiring to become a Software developer.
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
 ### Follow me on twitter @anthony_codes 😄
 
