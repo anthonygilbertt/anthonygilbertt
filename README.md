@@ -1,7 +1,8 @@
-### Hi 👋. I'm Anthony.
-### I am currently aspiring to become a Software developer.
+### Hello friend 👋.
+### You can call me Anthony. 😄
+### I am a Software Developer in Little Rock, Arkansas.
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
-### Follow me on twitter @anthony_codes 😄
+### Follow me on twitter @anthony_codes 
 
 <!--
 **anthonygilbertt/anthonygilbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
