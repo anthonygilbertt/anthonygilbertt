@@ -2,8 +2,8 @@
 ### I am a Software Developer in Little Rock, Arkansas.
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
 
-- 📫 How to reach me: ...
-### Follow me on twitter @anthony_codes 
+
+### 📫 How to reach me: DM me on twitter @anthony_codes 
 
 <!--
 **anthonygilbertt/anthonygilbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
