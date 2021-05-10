@@ -1,5 +1,5 @@
 ### Hello friend 👋. My name is Anthony. 😄
-### I am a Software Developer in Little Rock, Arkansas.
+### Software Developer at **********
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
 
 
