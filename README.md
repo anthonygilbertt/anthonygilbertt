@@ -1,5 +1,5 @@
 ### Hello friend 👋. My name is Anthony. 😄
-### Software Developer at **********
+### Software Developer
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
 
 
