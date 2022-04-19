@@ -1,6 +1,6 @@
-### Hey, I'm Anthony.
-### Software Developer
-# Just some stuff I use:
+# Anthony Gilbert
+### Software Developer | AWS Cloud Engineer 
+### Just some stuff I use:
 - Vue, Laravel, TypeScript, C++, Postgres, Docker, AWS, Go...etc 
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
 
