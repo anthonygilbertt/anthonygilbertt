@@ -1,5 +1,7 @@
 ### Hey, I'm Anthony.
-### Software Developer,
+### Software Developer
+## Just some stuff I use:
+- Vue, TypeScript, Laravel, C++, Postgres, Docker, ZSH, fzf, AWS...etc 
 ![A gif of a kid giving a thumbs up.](https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif)
 
 
