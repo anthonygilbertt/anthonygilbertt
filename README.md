@@ -6,6 +6,3 @@
 - PHP/Laravel
 - JavaScript/TypeScript/Vue.js
 
-
-
-...hi, mom!
