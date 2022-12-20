@@ -2,6 +2,7 @@
 
 **I write code in:**  
 - Go
+- Ruby
 - C/C++
 - PHP/Laravel
 - JavaScript/TypeScript/Vue.js
