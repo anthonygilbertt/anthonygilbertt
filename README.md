@@ -2,8 +2,9 @@
 
 **I write code in:**  
 - Go
+- HCL
+- BASH
 - Ruby
 - C/C++
 - PHP/Laravel
 - JavaScript/TypeScript/Vue.js
-
