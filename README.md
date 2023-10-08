@@ -4,7 +4,7 @@
 - Go
 - HCL
 - BASH
-- Ruby
+- Ruby/Ruby on Rails
 - C/C++
 - PHP/Laravel
 - JavaScript/TypeScript/Vue.js
