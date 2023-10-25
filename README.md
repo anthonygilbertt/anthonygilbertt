@@ -1,7 +1,7 @@
 ![](https://github.com/anthonygilbertt/banner/blob/main/banner-1.jpg)
 
 ![alt text](https://media.giphy.com/media/RneIcLEosVuta/giphy.gif "image Title")
- 👋 Hi, I’m Anthony 
+ <br>👋 Hi, I’m Anthony 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
