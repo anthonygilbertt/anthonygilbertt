@@ -13,11 +13,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-**I write code in:**  
+**I write code in:**
+- C
 - Go
 - HCL
 - BASH
-- Ruby/Ruby on Rails
-- C/C++
 - PHP/Laravel
-- JavaScript/TypeScript/Vue.js
+- JavaScript/Vue.js
