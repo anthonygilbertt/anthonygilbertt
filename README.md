@@ -2,6 +2,8 @@
 
 ![alt text](https://media.giphy.com/media/RneIcLEosVuta/giphy.gif "image Title")
  <br>👋 Hi, I’m Anthony 
+ Cloud Engineer by day
+ Software & Security Engineer by Night
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
