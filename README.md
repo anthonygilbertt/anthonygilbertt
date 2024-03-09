@@ -1,8 +1,8 @@
 ![](https://github.com/anthonygilbertt/banner/blob/main/banner-1.jpg)
 
 ![alt text](https://media.giphy.com/media/RneIcLEosVuta/giphy.gif "image Title")
- <br>👋 Hi, I’m Anthony 
- Cloud Engineer by day
+ <br>👋 Hi, I’m Anthony <br>
+ Cloud Engineer by day,  <br>
  Software & Security Engineer by Night
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ...
