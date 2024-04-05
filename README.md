@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 - Go
 - BASH
 - PHP/Laravel
-- JavaScript/Vue.js
+- HTML/CSS/JavaScript/Vue.js
