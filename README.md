@@ -2,7 +2,7 @@
 
 ![alt text](https://media.giphy.com/media/RneIcLEosVuta/giphy.gif "image Title")
  <br>👋 Hi, I’m Anthony <br>
- Software Developer by day,  <br>
+ Software Developer by day, <br>
  Security Engineer by Night
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ...
