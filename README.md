@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 - Go
 - Zig
 - Lisp / Elisp
+- SQL
 - YAML
 - HCL
 - BASH
