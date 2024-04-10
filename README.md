@@ -2,8 +2,8 @@
 
 ![alt text](https://media.giphy.com/media/RneIcLEosVuta/giphy.gif "image Title")
  <br>👋 Hi, I’m Anthony <br>
- Cloud Engineer by day,  <br>
- Software & Security Engineer by Night
+ Software Developer by day,  <br>
+ Security Engineer by Night
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -15,9 +15,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-**I write code in:**
+**I like to write code in:**
 - C
 - Go
+- Zig
+- Lisp / Elisp
+- YAML
+- HCL
 - BASH
-- PHP/Laravel
-- HTML/CSS/JavaScript/Vue.js
+- Ruby / Rails
+- PHP / Laravel
+- HTML / CSS / JavaScript / Vue.js
