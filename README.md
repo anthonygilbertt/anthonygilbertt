@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 **I like to write code in:**
 - C
 - Go
-- Zig
 - Rust
 - BASH
 - PHP / Laravel
