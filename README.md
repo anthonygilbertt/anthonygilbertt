@@ -1,9 +1,8 @@
 ![](https://github.com/anthonygilbertt/banner/blob/main/banner-1.jpg)
 
 ![alt text](https://media.giphy.com/media/RneIcLEosVuta/giphy.gif "image Title")
- <br>👋 Hi, I’m Anthony <br>
- Software Developer by day, <br>
- Dweeb by night
+ <br>Anthony Gilbert<br>
+ Software Developer | Cloud Engineer 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
