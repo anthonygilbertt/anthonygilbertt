@@ -2,7 +2,7 @@
 
 ![alt text](https://media.giphy.com/media/RneIcLEosVuta/giphy.gif "image Title")
  <br>Anthony Gilbert<br>
- Software Developer | Cloud Engineer 
+ Software Engineer specializing in distributed systems 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
