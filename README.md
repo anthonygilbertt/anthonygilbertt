@@ -18,6 +18,5 @@ You can click the Preview link to take a look at your changes.
 - Go
 - Rust
 - BASH
-- Haskell
 - PHP / Laravel
 - HTML / CSS / JavaScript / Vue.js
