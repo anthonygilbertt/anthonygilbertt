@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 **I like to write code in:**
 - C
 - Go
-- Rust
 - BASH
-- PHP / Laravel
-- HTML / CSS / JavaScript / Vue.js
+- Python
+- JavaScript/Vue.js
