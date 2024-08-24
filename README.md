@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 - Go
 - BASH
 - Python
-- JavaScript/Vue.js
+- JavaScript/TypeScript/Vue.js
