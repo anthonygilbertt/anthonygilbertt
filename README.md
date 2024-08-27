@@ -18,4 +18,5 @@ You can click the Preview link to take a look at your changes.
 - Go
 - BASH
 - Python
+- PHP/Laravel
 - JavaScript/TypeScript/Vue.js
