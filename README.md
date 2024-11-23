@@ -1,6 +1,4 @@
 ![](https://github.com/anthonygilbertt/banner/blob/main/banner-1.jpg)
-
-
  <br>Anthony Gilbert<br>
  Software Engineer specializing in distributed systems.
 <!-- - 👀 I’m interested in ... -->
